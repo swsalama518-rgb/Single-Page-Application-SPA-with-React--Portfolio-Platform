@@ -1,13 +1,13 @@
 # Project Showcase App
 
-A React single-page application (SPA) that allows users to view, search, and add projects dynamically.
+A React single-page application (SPA) that allows users to view, search, and add projects dynamically. This project demonstrates React fundamentals including components, props, state management, routing, and testing.
 
 ---
 
 ## 🚀 Features
 
 - Landing page displaying all projects
-- Search functionality to filter projects
+- Search functionality to filter projects dynamically
 - Add new projects using a form
 - Project detail page using React Router
 - Component-based architecture
